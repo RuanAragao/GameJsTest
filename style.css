@@ -1,0 +1,12 @@
+#grid {
+    background: url(img/grid.jpg);
+    position: relative;
+    display:block;
+}
+#person {
+    position: relative;
+    display:block;
+    background-color: red;
+    width: 24px;
+    height: 24px;
+}
